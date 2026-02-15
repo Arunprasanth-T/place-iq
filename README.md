@@ -29,7 +29,7 @@ Frontend StylingBootstrap 4
 
 💻 How to Run LocallyFollow these steps to set up the project on your machine:
 
-1. Clone the repositoryBashgit clone https://github.com/YOUR_USERNAME/placement-prediction-system.git
+1. Clone the repositoryBashgit clone https://github.com/Arunprasanth-T/placement-prediction-system.git
 cd placement-prediction-system
 
 2. Create and activate a virtual environmentPowerShell
